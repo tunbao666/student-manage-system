@@ -1,0 +1,23 @@
+# Visual Studio 生成目录与中间产物
+x64/
+Debug/
+Release/
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.log
+*.tlog
+*.lastbuildstate
+
+# 用户本地调试配置（每人机器不同，不纳入版本管理）
+*.vcxproj.user
+
+# 程序运行时的临时文件
+student.tmp
+
+# 名为 "student .xxxxxxx" 的 VS 临时目录
+student .*/
